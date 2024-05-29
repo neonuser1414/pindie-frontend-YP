@@ -1,2 +1,1 @@
-# pindie-frontend-YP
-Pindie Frontend project for YP Homework.
+Мой бэкенд: https://pindiebackkm.nomorepartiesco.ru
